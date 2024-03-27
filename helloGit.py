@@ -9,3 +9,5 @@ print("Hello Git!")
 cat2 = CuteCat("daHua", 4, "black")
 cat2.cry()
 cat2.think("哪有小鱼干？")
+
+cat3 = CuteCat("mimi", 3, "wight")
